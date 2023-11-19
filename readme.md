@@ -6,3 +6,4 @@ This repo based on Git and GitHub usage preferly
 This repository is built step by step in the tutorial.
 
 It now includes steps to GitHub
+So i tried a :vim: linux utility, till now looks fine
